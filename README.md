@@ -8,6 +8,6 @@ Set up a goal that will accept the meta values as an odometer goal. I use the ra
 
 The datapoint that is posted takes into account 10 goals with closest-to-the-road latest datapoints. Think of it as a score on the scale of 0 to 100, where 0 is "at least 10 goals are in the red today" and 100 as "all goals are at least 10 days ahead of the plan". In my experience, it make little sense to actually strive to achieve the 90+ range, as then the freedom to work more one this or that goal disappears. Instead, it is the journey that is the destination :)
 
-**Add your INFO in the second cell with code.**
+**Add your INFO in the "settings.ini" file.**
 
-After the last cell, you cap see a recap confirming that the datapoint has been posted and a list of goals that you can work on that contribute to the meta goal.
+After the last cell, you cap see a recap confirming that the datapoint has been posted and a list of all your goals, in which those that you can work on that contribute to the meta goal are highlighted with bold font.
